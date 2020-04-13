@@ -1,0 +1,1 @@
+web: knowledge_repo --repo content_repo runserver --port $PORT
